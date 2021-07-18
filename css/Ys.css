@@ -88,3 +88,10 @@ body{
 #footer a:hover{
     color: #fffb00;
 }
+h1{
+    font-size: 50px;
+    color: azure;
+    position: absolute;  
+    left: 50%;
+    top: 30%;
+}
